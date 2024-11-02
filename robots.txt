@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iciboequ.github.io/Ifi/sitemap_index.txt
+Sitemap: https://iciboequ.github.io/eIi/sitemap_index.txt
+Sitemap: https://iciboequ.github.io/fgy/sitemap_index.txt
+Sitemap: https://iciboequ.github.io/nPC/sitemap_index.txt
